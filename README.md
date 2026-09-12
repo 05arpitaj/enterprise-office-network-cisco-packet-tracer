@@ -49,3 +49,22 @@ Practiced L1 troubleshooting for:
 ## Network Topology
 
 ![Enterprise Office Network](Screenshot%202026-09-11%20213909.png)
+## Project Verification & Troubleshooting
+
+### VLAN Configuration
+![VLAN Configuration](Screenshot%202026-09-11%20220334.png)
+
+### Inter-VLAN Routing
+![Inter-VLAN Routing](Screenshot%202026-09-11%20220430.png)
+
+### Routing Verification
+![Routing Verification](Screenshot%202026-09-11%20220532.png)
+
+### NAT Verification
+![NAT Verification](Screenshot%202026-09-11%20220737.png)
+
+### Troubleshooting
+![Troubleshooting](Screenshot%202026-09-11%20221012.png)
+
+### Connectivity & DNS Verification
+![Connectivity and DNS Verification](Screenshot%202026-09-11%20221242.png)
