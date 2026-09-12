@@ -46,3 +46,6 @@ Practiced L1 troubleshooting for:
 - `show ip nat translations`
 - `ping`
 - `nslookup`
+## Network Topology
+
+![Enterprise Office Network](Screenshot%202026-09-11%20213909.png)
